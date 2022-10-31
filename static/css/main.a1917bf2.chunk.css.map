@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,QACE,WAAY,CAEZ,+BAAiC,CAClC,MAGC,6BAAyC,CACzC,iBAAkB","file":"main.a1917bf2.chunk.css","sourcesContent":[".button {\n  width: 160px;\n\n  transition: background-color 0.3s;\n}\n\n.item {\n  border-left: 5px solid rgb(224, 224, 224);\n  border-radius: 3px;\n}\n"]}
